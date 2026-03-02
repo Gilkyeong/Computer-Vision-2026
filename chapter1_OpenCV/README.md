@@ -21,7 +21,8 @@
 
 ### :octocat: 실행 결과
 
-![image](https://github.com/user-attachments/assets/c3322dd8-424c-4fc1-8d30-c4d293a28795)
+![image](https://github.com/user-attachments/assets/940f3aa2-4a55-4d78-a64f-1878cc5209bd)
+
 <br><br>
 
 ## 🌀 문제 3 마우스로 영역 선택 및 ROI 추출
