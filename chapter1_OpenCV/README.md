@@ -35,6 +35,6 @@
 
 ### :octocat: 실행 결과
 
-<img width="1785" height="1018" alt="스크린샷 2026-03-02 174208" src="https://github.com/user-attachments/assets/db4c0a95-157e-4e42-9d48-c02889d981b3" />
+![image](https://github.com/user-attachments/assets/235df943-48de-49b3-8a72-ee39967e0764)
 
 
