@@ -11,13 +11,13 @@
 ![image](https://github.com/user-attachments/assets/233b22d6-aff2-490e-abff-1f231ca3de13)
 <br><br>
 
-## 🌀 문제 2 웹캠 영상에서 에지 검출
+## 🌀 문제 2 페인팅 붓 크기 조절 기능 추가
 
-> 웹캠을 사용하여 실시간 비디오 스트림을 가져와 **각 프레임에서 Canny Edge Detection을 적용하여 에지를 검출하여 원본 영상과 함께 출력**
+> 컬러 이미지를 불러와 마우스 입력으로 붓질과 **키보드 입력을 이용해 붓의 크기 조절**
 ---
 
 ### 📄 코드 
-- Canny_video.py
+- BrushControl.py
 
 ### :octocat: 실행 결과
 
@@ -34,5 +34,6 @@
 
 ### :octocat: 실행 결과
 
-![image](https://github.com/user-attachments/assets/235df943-48de-49b3-8a72-ee39967e0764)
+<img width="1785" height="1018" alt="스크린샷 2026-03-02 174208" src="https://github.com/user-attachments/assets/db4c0a95-157e-4e42-9d48-c02889d981b3" />
+
 
