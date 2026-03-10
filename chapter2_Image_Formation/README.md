@@ -8,6 +8,8 @@
 
 ### :octocat: 실행 결과
 
+
+<br><br>
 <img width="1585" height="638" alt="스크린샷 2026-03-10 103941" src="https://github.com/user-attachments/assets/f673cec9-b586-40e5-be53-4ad2e7256fc3" />
 
 <br><br>
@@ -35,7 +37,21 @@
 
 ### :octocat: 실행 결과
 
-<img width="450" height="375" alt="left_with_rois" src="https://github.com/user-attachments/assets/67e633f6-b60b-4f0e-8031-7c9a3fbb9c20" />
+=== ROI별 평균 Disparity / 평균 Depth ===
+Painting
+  Mean Disparity : 18.54
+  Mean Depth     : 4.5375
+Frog
+  Mean Disparity : 33.66
+  Mean Depth     : 2.5069
+Teddy
+  Mean Disparity : 22.43
+  Mean Depth     : 3.8894
+
+=== 해석 ===
+가장 가까운 영역: Frog
+가장 먼 영역: Painting
+<br><br>
 
 
 
