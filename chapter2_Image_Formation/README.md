@@ -8,7 +8,13 @@
 
 ### :octocat: 실행 결과
 
+Camera Matrix K:
+[[536.07345237   0.         342.37046832]
+ [  0.         536.01636205 235.5368717 ]
+ [  0.           0.           1.        ]]
 
+Distortion Coefficients:
+[[-0.26509041 -0.04674209  0.00183302 -0.00031469  0.252312  ]]
 <br><br>
 <img width="1585" height="638" alt="스크린샷 2026-03-10 103941" src="https://github.com/user-attachments/assets/f673cec9-b586-40e5-be53-4ad2e7256fc3" />
 
