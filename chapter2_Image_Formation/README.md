@@ -58,6 +58,7 @@ Teddy <br><br>
 가장 가까운 영역: Frog <br><br>
 가장 먼 영역: Painting <br><br>
 <br><br>
+<img width="1352" height="399" alt="image" src="https://github.com/user-attachments/assets/5d2abf8b-41f4-4448-8beb-00e9c5bd533c" />
 
 
 
