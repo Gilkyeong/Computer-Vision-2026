@@ -9,9 +9,9 @@
 ### :octocat: 실행 결과
 
 Camera Matrix K:
-[[536.07345237   0.         342.37046832]
- [  0.         536.01636205 235.5368717 ]
- [  0.           0.           1.        ]]
+[[536.07345237   0.         342.37046832]<br><br>
+ [  0.         536.01636205 235.5368717 ]<br><br>
+ [  0.           0.           1.        ]]<br><br>
 
 Distortion Coefficients:
 [[-0.26509041 -0.04674209  0.00183302 -0.00031469  0.252312  ]]
@@ -44,19 +44,19 @@ Distortion Coefficients:
 ### :octocat: 실행 결과
 
 === ROI별 평균 Disparity / 평균 Depth ===
-Painting
-  Mean Disparity : 18.54
-  Mean Depth     : 4.5375
-Frog
-  Mean Disparity : 33.66
-  Mean Depth     : 2.5069
-Teddy
-  Mean Disparity : 22.43
-  Mean Depth     : 3.8894
-
-=== 해석 ===
-가장 가까운 영역: Frog
-가장 먼 영역: Painting
+Painting <br><br>
+  Mean Disparity : 18.54 <br><br>
+  Mean Depth     : 4.5375 <br><br>
+Frog <br><br>
+  Mean Disparity : 33.66 <br><br>
+  Mean Depth     : 2.5069 <br><br>
+Teddy <br><br>
+  Mean Disparity : 22.43 <br><br>
+  Mean Depth     : 3.8894 <br><br>
+<br><br>
+=== 해석 === <br><br>
+가장 가까운 영역: Frog <br><br>
+가장 먼 영역: Painting <br><br>
 <br><br>
 
 
