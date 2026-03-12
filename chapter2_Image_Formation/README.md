@@ -4,7 +4,7 @@
 ---
 
 ### 📄 코드 
-- calibration.py
+- Calibration.py
 
 ### :octocat: 실행 결과
 
@@ -25,7 +25,7 @@ Distortion Coefficients:
 ---
 
 ### 📄 코드 
-- transform.py
+- Transform.py
 
 ### :octocat: 실행 결과
 
@@ -39,7 +39,7 @@ Distortion Coefficients:
 ---
 
 ### 📄 코드 
-- depth.py
+- Depth.py
 
 ### :octocat: 실행 결과
 
