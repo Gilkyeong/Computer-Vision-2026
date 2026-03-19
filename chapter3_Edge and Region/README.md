@@ -6,7 +6,7 @@
 
 ### 📄 코드 
 - Sobel_edge.py
-<br><br>
+
 ### :octocat: 실행 결과
 
 ![Figure 2025-03-25 153940](https://github.com/user-attachments/assets/ad7436ff-95ce-4383-9dee-fbb7bfa408f0)
@@ -19,7 +19,6 @@
 ### 📄 코드 
 - Hough.py
 
-<br><br>
 ### :octocat: 실행 결과
 
 ![Figure 2025-03-25 154707](https://github.com/user-attachments/assets/ccb52f88-6890-44e7-bf53-1231e55932af)
@@ -39,7 +38,6 @@ lines = cv.HoughLinesP(edges, rho=1, theta=np.pi/180, threshold=90, minLineLengt
 ### 📄 코드 
 - Grabcut.py
 
-<br><br>
 ### :octocat: 실행 결과
 
 ![Figure 2025-03-25 155538](https://github.com/user-attachments/assets/1307ca06-143f-45df-89a3-d3867e98a63c)
